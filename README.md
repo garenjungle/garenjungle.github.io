@@ -1,6 +1,6 @@
 # garenjungle's blog
 
-[![HitCount](http://hits.dwyl.com/garenjungle/garenjunglegithubio.svg)](http://hits.dwyl.com/garenjungle/garenjunglegithubio)
+[![HitCount](http://hits.dwyl.com/garenjungle/garenjungle.github.io.svg)](http://hits.dwyl.com/garenjungle/garenjungle.github.io)
 
 ## 행복에 대해 알아보자
 
