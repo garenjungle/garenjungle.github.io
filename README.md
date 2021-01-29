@@ -1,5 +1,7 @@
 # garenjungle's blog
 
+[![HitCount](http://hits.dwyl.com/garenjungle/garenjunglegithubio.svg)](http://hits.dwyl.com/garenjungle/garenjunglegithubio)
+
 ## 행복에 대해 알아보자
 
 안녕. 오늘은 행복에 대해서 알아보려고해
